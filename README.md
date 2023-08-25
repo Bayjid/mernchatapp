@@ -17,11 +17,14 @@ Make Sure to Create a config.env file in backend/config directory and add approp
 **Essential Variables**
 
 CORS_URL=
+
 DEV_Local_DB_URI =
-DEV_Cloud_DB_URI = 
+DEV_Cloud_DB_URI =
+
 JWT_SECRET=
 JWT_EXPIRE=
 COOKIE_EXPIRE=
+
 SMPT_SERVICE =
 SMPT_MAIL=
 SMPT_PASSWORD=
