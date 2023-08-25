@@ -33,6 +33,6 @@ SMPT_PORT=
 
 ### fill each filed with your info respectively
 
-## Author
+# Author
 ### Bayjid Hossain
 **LinkedIn** [Click Here](https://www.linkedin.com/in/bayjidhossain/)
